@@ -1,0 +1,37 @@
+How many students?
+Enter name , roll and marks of them:
+Printed inorder
+Name:A Roll:2  Marks30
+Name:A Roll:3  Marks50
+Name:B Roll:3  Marks50
+Name:D Roll:5  Marks22
+Name:E Roll:5  Marks120
+Name:F Roll:2  Marks45
+Name:G Roll:1  Marks120
+
+Here is the rank list
+1 th position: 
+Name: E Roll=5 Marks=120
+Name: G Roll=1 Marks=120
+2 th position: 
+Name: B Roll=3 Marks=50
+Name: A Roll=3 Marks=50
+3 th position: 
+Name: F Roll=2 Marks=45
+4 th position: 
+Name: A Roll=2 Marks=30
+5 th position: 
+Name: D Roll=5 Marks=22
+
+How many students?
+Enter name , roll and marks of them:
+Printed inorder
+Name:B Roll:34  Marks50
+Name:D Roll:44  Marks22
+
+Here is the rank list
+1 th position: 
+Name: B Roll=34 Marks=50
+2 th position: 
+Name: D Roll=44 Marks=22
+
